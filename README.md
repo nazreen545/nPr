@@ -1,3 +1,3 @@
 # nPr
-How to calculate nPr
+# How to calculate nPr
 Subject Structure Discrete
